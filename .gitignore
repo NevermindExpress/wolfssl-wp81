@@ -1,0 +1,53 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+*.ipch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+*.elf
+
+# Visual Studio IntelliSense directory and files
+.vs
+*.db
+*.opendb
+
+# VS output directories
+x64
+Debug
+Release
+ARM
+Generated Files
+
+# VS user data
+*.user
+
+# Compiled resources
+*.res
+*.aps
+resource.h
+
+# More resource shit
+RC*
